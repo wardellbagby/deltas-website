@@ -1,0 +1,15 @@
+[
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"com.wardellbagby.deltas.android",
+      "sha256_cert_fingerprints":[
+        "cf:38:d2:67:f9:09:5e:6f:a5:85:70:ee:f8:b3:bd:d3:6a:63:6b:49:a9:12:3e:c1:68:b5:7b:7f:7d:53:51:56",
+        "FB:69:5F:13:DB:CE:16:5B:B4:E4:D6:4B:A3:D8:A6:F5:0E:9E:6A:21:41:79:4D:63:1A:F1:FE:6B:51:09:E8:A6"
+      ]
+    }
+  }
+]
